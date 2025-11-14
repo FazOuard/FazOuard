@@ -2,10 +2,10 @@
 
 I'm a Data Engineer and a PhD Student.<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=FazOuard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FazOuard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117)
-
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=FazOuard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FazOuard&theme=dark&hide_border=false&layout=compact&card_width=320&langs_count=5&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117" height="150" alt="languages graph"  />
+</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%23FF69B4.svg?style=for-the-badge&logo=c&logoColor=white) 
