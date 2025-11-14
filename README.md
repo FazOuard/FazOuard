@@ -1,32 +1,38 @@
-<h1 align="center">Hello, I'm Fatima Zahra</h1>
-<p align="center">🌸 Data Engineer & PhD Student 🌸</p>
+# Hi, I'm Fatima Zahra!
 
----
+I'm a Data Engineer and a PhD Student.<br/>
 
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=false" />
-</p>
-
----
+![](https://github-readme-stats.vercel.app/api?username=FazOuard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FazOuard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117)
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%23FF69B4.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=%23FFF0F5) 
+![Python](https://img.shields.io/badge/python-%23FFB6C1.svg?style=for-the-badge&logo=python&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%23FF69B4.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23FFB6C1.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/react-%23FF69B4.svg?style=for-the-badge&logo=react&logoColor=%23FFF0F5) 
+![NodeJS](https://img.shields.io/badge/node.js-%23FFB6C1?style=for-the-badge&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%23FFB6C1.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%23FF69B4.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23FFB6C1.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23FF69B4.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23FFB6C1.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%23FF69B4.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFB6C1.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23FF69B4.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FFB6C1.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FF69B4.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23FFB6C1.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%23FF69B4.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
----
 
 
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/YOUR_YT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/YOUR_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/YOUR_TWITCH"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-  <a href="https://discord.gg/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+![Dancing Anime](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 
