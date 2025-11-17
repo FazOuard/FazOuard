@@ -1,8 +1,10 @@
 # Hi, I'm Fatima Zahra!
 
 I'm a Data Engineer and a PhD Student.<br/>
+
 <br/>
 
+<div>
   
   <img src="https://github-readme-stats.vercel.app/api?username=FazOuard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&bg_color=0d1117" height="150" alt="stats graph"  />
   
